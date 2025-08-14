@@ -45,7 +45,7 @@ st.markdown(
     <h1 style='text-align: center;'>🏥 Hospital Length of Stay Prediction</h1>
     <p style='text-align: center; font-size: 18px;'>
         This survey collects patient-related data, along with hospital and 
-        information, to predict how long a patient is likely to stay. These 
+        doctor information, to predict how long a patient is likely to stay. These 
         predictions help hospitals better allocate resources, schedule staff,
         and provide improved patient care.
     </p>
